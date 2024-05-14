@@ -623,7 +623,7 @@ h6 {
 }
 
 #services .box:hover .title a {
-  color: var(--primary-color);
+  color: var(--color-silver);
 }
 
 #services .description {
